@@ -1,0 +1,4 @@
+transformers==4.2.1
+spacy
+lemminflect
+bleurt

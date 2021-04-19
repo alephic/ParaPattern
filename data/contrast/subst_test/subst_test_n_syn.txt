@@ -1,0 +1,15 @@
+Apples are tree fruits. Produce from fruit trees is edible. Therefore, apples are edible.
+Trash is disposed of in landfills. Wrappers are a type of garbage. Therefore, wrappers are disposed of in landfills.
+Refined sweeteners can lead to diabetes. High fructose corn syrup is a processed sugar. Therefore, high fructose corn syrup can lead to diabetes.
+RSA is a cryptographic system. Encryption protocols let people exchange messages securely. Therefore, RSA lets people exchange messages securely.
+People sometimes play musical instruments for entertainment. Pianos are tools for making music. Therefore, people sometimes play pianos for entertainment.
+A year is a span of time. Chronological units measure the passage of time. Therefore, years measure the passage of time.
+Attorneys litigate civil or criminal cases in court. Frank Jelinek is a lawyer. Therefore, Frank Jelinek litigates civil or criminal cases in court.
+Detritivores decompose leaf litter and other dead biomass into bioavailable nutrients. Fungi are decomposers. Therefore, fungi decompose leaf litter and other dead biomass into bioavailable nutrients.
+Doctors use medical tests to diagnose diseases and guide treatment. CT scans are diagnostic procedures. Therefore, doctors use CT scans to diagnose diseases and guide treatment.
+Ski resorts are a favorite holiday getaway. Some municipalities subsidize popular vacation destinations because they provide valuable tourism income. Therefore, some municipalities subsidize ski resorts because they provide valuable tourism income.
+Pi is a fundamental fixed value. Constants are important in mathematics. Therefore, Pi is important in mathematics.
+World Heritage Sites have cultural, historical, scientific or other significance. The Taj Mahal is a UNESCO World Heritage List member. Therefore, the Taj Mahal has cultural, historical, scientific or other significance.
+Income tax is a form of government revenue. Federal earnings fund public infrastructure and other state services. Therefore, income tax funds public infrastructure and other state services.
+Fiberglass is acrylic reinforced with strands of glass. High tensile strength and shock resistance make fiber-reinforced polymers well suited for many engineering applications. Therefore, high tensile strength and shock resistance make fiberglass well suited for many engineering applications.
+The Green Bay Packers are an NFL team. National Football League member teams play from early September to late December. Therefore, the Green Bay Packers play from early September to late December.
