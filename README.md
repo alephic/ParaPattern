@@ -2,6 +2,8 @@
 # Flexible Operations for Natural Language Deduction
 ## a.k.a. ParaPattern
 
+<https://arxiv.org/abs/2104.08825>
+
 [Kaj Bostrom](https://bostromk.net/), [Lucy Zhao](https://github.com/xyz-zy), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), and [Greg Durrett](https://www.cs.utexas.edu/~gdurrett/)
 
 This repository contains all the code needed to replicate the experiments from the paper, and additionally provides a set of tools to
