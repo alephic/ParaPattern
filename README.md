@@ -1,5 +1,5 @@
 
-# Flexible Operations for Natural Language Deduction
+# Flexible Generation of Natural Language Deductions
 ## a.k.a. ParaPattern
 
 <https://arxiv.org/abs/2104.08825>
